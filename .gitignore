@@ -1,0 +1,9 @@
+# Ignore the large dataset folder
+ml-25m/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore outputs (optional, but good practice if they are large)
+outputs/
